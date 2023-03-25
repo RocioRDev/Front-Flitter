@@ -1,4 +1,7 @@
 # Flitter
+<p align="center">
+<img src="Front.png" alt="Login" width="400"/>
+</p>
 This a Twitter clone, [KeepCoding-Glovo Women in Tech](https://keepcoding.io/nuestros-bootcamps/mujeres-glovo/ "KC Bootcamp") final project 
 
 ### General Remarks
